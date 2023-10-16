@@ -7,7 +7,7 @@ author_profile: true
 
 Experience Summary
 ------
-My professional trajectory has highlighted my contributions as a Systems Engineer at Tata Consultancy Services, where I played a pivotal role in the development of an extensive suite of REST APIs using the Django REST framework. Personally involved in various ML case studies and projects. These experiences reinforced my desire to translate knowledge into tangible implementations and further enhance my domain expertise. Subsequently, my role as an Associate Software Engineer at OpenText involved me in a cloud deployment initiative utilizing Angular JS and Kubernetes. I was also involved in developing a Python-based report generation tool for comprehensive analytical insights. Throughout my journey, I displayed a strong dedication towards the fields of **Machine Learning**, **Deep Learning** and **Full-Stack development**,.
+My professional trajectory has highlighted my contributions as a Systems Engineer at Tata Consultancy Services, where I played a pivotal role in the development of an extensive suite of REST APIs using the Django REST framework. Personally involved in various ML case studies and projects. These experiences reinforced my desire to translate knowledge into tangible implementations and further enhance my domain expertise. Subsequently, my role as an Associate Software Engineer at OpenText involved me in a cloud deployment initiative utilizing Angular JS and Kubernetes. I was also involved in developing a Python-based report generation tool for comprehensive analytical insights. Throughout my journey, I have displayed a strong dedication towards the fields of **Machine Learning**, **Deep Learning** and **Full-Stack development**,.
 
 EXTRA-CURRICULAR ACTIVITIES
 ------
