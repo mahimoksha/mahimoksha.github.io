@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: mahimoksha.github.io/files/Resume.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
