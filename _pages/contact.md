@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Contact"
 permalink: /contact/
+title: "Contact"
+excerpt: "contact"
 author_profile: true
-redirect_from:
-  - /contact
-  -/contact.html
+redirect_from: 
+  - /contact/
 ---
 
 Below is my personal email. Please feel free to contact me regarding any questions.
