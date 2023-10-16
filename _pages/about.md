@@ -20,7 +20,7 @@ The idea of tackling intricate data challenges in the industry is exciting to me
 
 Advisor: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
-Collaborators: [Tushar Kataria](), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/)
+Collaborators: [Tushar Kataria](https://tushaarkataria.github.io/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/)
 
 Recent News
 ------
