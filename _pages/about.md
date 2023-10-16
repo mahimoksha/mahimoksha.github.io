@@ -16,7 +16,7 @@ Research Interests
 
 ------
 
-The idea of tackling intricate data challenges in the industry is exciting to me and inspires me to collaborate with organizations that can help me enhance my skills and knowledge. With a focus on innovative research, currently, I am working on advanced machine learning/deep learning methods to analyze and quantify medical images. my research interests also include computer vision, image processing and Probabilistic Machine Learning. I'm interested in developing advanced algorithms and techniques in **medical imaging** through the utilization of deep learning. My focus also lies in  **Statistical Shape Modeling**. Specifically i am interested by the challenges posed by limited data and the intricacies of solving **Regression** tasks.
+The idea of tackling intricate data challenges in the industry is exciting to me and inspires me to collaborate with organizations that can help me enhance my skills and knowledge. With a focus on innovative research, currently, I am working on advanced machine learning/deep learning methods to analyze and quantify medical images. my research interests also include computer vision, image processing and Probabilistic Machine Learning. I'm interested in developing advanced algorithms and techniques in **Medical Imaging** through the utilization of deep learning. My focus also lies in  **Statistical Shape Modeling**. Specifically i am interested by the challenges posed by limited data and the intricacies of solving **Regression** tasks.
 
 Advisor: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
