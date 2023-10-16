@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-THis is test account
-
-Lorem ipsum.
+I am Mokshagna Sai Teja Karanam studying masters in computer science at University of Utah
