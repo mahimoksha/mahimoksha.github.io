@@ -2,7 +2,7 @@
 layout: archive
 permalink: /contact/
 title: "Contact"
-excerpt: "contact"
+# excerpt: "contact"
 author_profile: true
 redirect_from: 
   - /contact
