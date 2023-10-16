@@ -8,7 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-(Resume)(mahimoksha.github.io/files/Resume.pdf)
+[Resume](mahimoksha.github.io/files/Resume.pdf)
+
 Education
 ======
 * B.S. in Computer Science and Engineering, B V Raju Institute of Technology, 2016-2020
