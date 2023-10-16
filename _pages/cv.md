@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Resume](mahimoksha.github.io/files/Resume.pdf)
+[Resume](https://mahimoksha.github.io/files/Resume.pdf)
 
 Education
 ======
