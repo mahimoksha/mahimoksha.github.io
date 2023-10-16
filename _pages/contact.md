@@ -8,7 +8,7 @@ author_profile: true
 #   - /contact
 ---
 
-Below is my personal email: Please don't hesitate to get in touch if you have any questions.
+Below is my personal email. Please don't hesitate to get in touch if you have any questions.
 
 
 Contact Information
