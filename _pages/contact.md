@@ -1,8 +1,8 @@
 ---
-layout: archive
+# layout: archive
 permalink: /contact/
 title: "Contact"
-# excerpt: "contact"
+excerpt: "Contact me"
 author_profile: true
 # redirect_from: 
 #   - /contact
@@ -10,5 +10,7 @@ author_profile: true
 
 Below is my personal email: Please don't hesitate to get in touch if you have any questions.
 
-* **Contact Information**
-  * Email - kmokshagna999@gmail.com
+
+Contact Information
+------
+- Email:- tushar9818@gmail.com
