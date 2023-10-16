@@ -8,6 +8,7 @@ author_profile: true
 #   - /contact
 ---
 
-Below is my personal email. Please feel free to contact me regarding any questions.
-* Contact Information
+Below is my personal email: Please don't hesitate to get in touch if you have any questions.
+
+* **Contact Information**
   * Email - kmokshagna999@gmail.com
