@@ -8,9 +8,10 @@ author_profile: true
 #   - /contact
 ---
 
-Below is my personal email. Please don't hesitate to get in touch if you have any questions.
+Please don't hesitate to get in touch if you have any questions.
 
 
 Contact Information
 ------
 - Email:- kmokshagna999@gmail.com
+- LinkedIn:- mokshagna-sai-teja-karanam-372022169
