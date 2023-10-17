@@ -14,8 +14,7 @@ I am Mokshagna Sai Teja Karanam studying master's in computer science at [Univer
 
 Research Interests
 ------
-
-The idea of tackling intricate data challenges in the industry is exciting to me and inspires me to collaborate with organizations that can help me enhance my skills and knowledge. With a focus on innovative research, Currently, I'm working on advanced Machine Learning/deep learning methods to analyze and quantify medical images. My research interests also include Computer Vision, Image Processing and Probabilistic Machine Learning. I'm interested in developing advanced algorithms and techniques in **Medical Imaging** through the utilization of deep learning. My focus also lies in  **Statistical Shape Modeling**. Specifically I'm interested by the challenges posed by limited data and the intricacies of solving **Regression** tasks.
+With a focus on innovative research, Currently, I'm working on advanced Machine Learning/deep learning methods to analyze and quantify medical images. My research interests also include Computer Vision, Image Processing and Probabilistic Machine Learning. I'm interested in developing advanced algorithms and techniques in **Medical Imaging** through the utilization of deep learning. My focus also lies in  **Statistical Shape Modeling**. Specifically I'm interested by the challenges posed by limited data and the intricacies of solving **Regression** tasks. The idea of tackling intricate data challenges in the industry is exciting to me and inspires me to collaborate with organizations that can help me enhance my skills and knowledge. 
 
 Advisor: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
