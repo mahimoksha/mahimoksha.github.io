@@ -32,4 +32,4 @@ ACHIEVEMENTS
 
 INTERESTS
 ------
-Participating in Kaggle competitions, Sports Activities, Cricket, and Gaming.
+Participating in Kaggle competitions, Sports Activities, Cricket, Hiking and Gaming.
