@@ -13,15 +13,20 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Engineering, B V Raju Institute of Technology, 2016-2020
-* M.S. in Computer Science, University of Utah, 2022-2024 (expected)
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in Computer Science, University of Utah, 2022-2024
+* Ph.D in Computer Science, University of Utah, 2024-2029 (expected)
 
 Work experience
 ======
 * Scientific Computing and Imaging Institute: Graduate Research Assistant - August 2022 - Current
+  * Spearheading an end-to-end preprocessing pipeline for Craniosynostosis data, incorporating segmentation, registration, and bulk upload handling, improving efficiency by 20%.
+  * Formulated a transformer-based architecture for unsupervised 3D medical image registration, utilizing high-resolution tokens reducing computational redundancy.
+  * Achieved state-of-the-art performance on the OASIS dataset, using 16-27x fewer parameters.
   * Proposed an automated, computationally efficient, and on-the-fly adversarial data augmentation technique tailored for Statistical Shape Modeling and Regression Tasks which reduced approximately 60% training time.
   * Introduced a novel regularization technique utilizing contrastive loss. This technique aimed to generate more task and data-specific samples, leading to a substantial 10% performance enhancement across diverse modalities.
   * Designed ShapeWorks test systems for different modalities and deployed datasets in the shapeworks cloud.
+  * Utilized a range of multi-task techniques, including segmentation, distance transforms, and depth estimation, to enhance shape modeling performance by 20%.
+  * Conducted experiments with 3 multi-organ anatomies and pretraining strategies to optimize the performance of a single anatomy.
 
 * Tata Consultancy Services: Systems Engineer - November 2020 - July 2022
   * Worked on an application project in AWS using Django Framework.

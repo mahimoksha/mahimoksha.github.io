@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am Mokshagna Sai Teja Karanam studying master's in computer science at [University of Utah, Utah](https://www.utah.edu/) in [School of Computing](https://www.cs.utah.edu/). Currently, I'm in [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) under the guidance of [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/).
-
-
 
 Research Interests
 ------
@@ -29,3 +26,7 @@ Author List: Mary Hall, Ganesh Gopalakrishnan, Harvey Dam, Artem Yadrov, Amirmoh
 -[**July 2023**] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://link.springer.com/chapter/10.1007/978-3-031-46914-5_8), **Accepted in [ShapeMI 2023](https://shapemi.github.io/), MICCAI Workshops 2023**.
 
 Author  List: **Mokshagna Sai Teja Karanam**, Tushar Kataria, Krithika Iyer, Shireen Elhabian.
+
+-[**Sep 2024**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](), **Accepted in [WACV 2025](https://wacv2025.thecvf.com), WACV 2025**.
+
+Author  List: Abu Zahid Bin Aziz\*, **Mokshagna Sai Teja Karanam\***, Tushar Kataria, Shireen Elhabian. (* - Equal Contribution)
