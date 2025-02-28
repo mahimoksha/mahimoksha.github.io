@@ -27,17 +27,17 @@ Author List: Mary Hall, Ganesh Gopalakrishnan, Harvey Dam, Artem Yadrov, Amirmoh
 
 Author  List: **Mokshagna Sai Teja Karanam**, Tushar Kataria, Krithika Iyer, Shireen Elhabian.
 
--[**Sep 2024**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](), **Accepted in [WACV 2025](https://wacv2025.thecvf.com), WACV 2025**.
+-[**Sep 2024**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026), **Accepted in [WACV 2025](https://wacv2025.thecvf.com), WACV 2025**.
 
 Author  List: Abu Zahid Bin Aziz\*, **Mokshagna Sai Teja Karanam\***, Tushar Kataria, Shireen Elhabian. (*Equal Contribution)
 
 
--[**Feb 2025**] [***Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes***] **Submitted in [Arxiv](https://arxiv.org/pdf/2502.07145v1)**. 
+-[**Feb 2025**] [***Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes***](https://arxiv.org/pdf/2502.07145v1), **Submitted in [Arxiv](https://arxiv.org/pdf/2502.07145v1)**. 
 <!-- , **Accepted in [WACV 2025](https://wacv2025.thecvf.com), WACV 2025**. -->
 
 Author  List: Krithika Iyer, **Mokshagna Sai Teja Karanam**, Shireen Elhabian
 
 
--[**Feb 2025**] [***MORPH-LER: Log-Euclidean Regularization for Population-Aware Image Registration***](), **Submitted in [MIDL 2025](https://2025.midl.io), MIDL 2025**.
+-[**Feb 2025**] [***MORPH-LER: Log-Euclidean Regularization for Population-Aware Image Registration***](https://arxiv.org/pdf/2502.02029), **Submitted in [MIDL 2025](https://2025.midl.io), MIDL 2025**.
 
 Author  List:  **Mokshagna Sai Teja Karanam\***,  Krithika Iyer\*, Sarang Joshi, Shireen Elhabian. (*Equal Contribution)
